@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "minitool1": {
+      "commandName": "Project",
+      "commandLineArgs": "\"G:\\x221.local\\StreamingAssets\""
+    }
+  }
+}
