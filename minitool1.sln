@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35506.116 d17.12
+VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minitool1", "minitool1\minitool1.csproj", "{D66AD932-3282-4BF4-9F84-E9AC9C84DE0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minitool2", "minitool2\minitool2.csproj", "{0FE5458A-A3A9-4D0B-A540-BF4A7CD3F7EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D66AD932-3282-4BF4-9F84-E9AC9C84DE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D66AD932-3282-4BF4-9F84-E9AC9C84DE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D66AD932-3282-4BF4-9F84-E9AC9C84DE0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FE5458A-A3A9-4D0B-A540-BF4A7CD3F7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE5458A-A3A9-4D0B-A540-BF4A7CD3F7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE5458A-A3A9-4D0B-A540-BF4A7CD3F7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE5458A-A3A9-4D0B-A540-BF4A7CD3F7EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
