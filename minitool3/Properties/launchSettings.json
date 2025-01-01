@@ -2,7 +2,7 @@
   "profiles": {
     "minitool3": {
       "commandName": "Project",
-      "commandLineArgs": "\"G:\\source\\minitool1\\minitool3\\bin\\Debug\\net8.0\\bg_avg_003.jp.encrypted\""
+      "commandLineArgs": "\"G:\\source\\minitool1\\minitool3\\bin\\Release\\net8.0\\publish\\win-x64\\jp.co.dmm.dmmgames.imys_r\\files\\assetbundles\\characters\\tati\\020g2.encrypted\""
     }
   }
 }

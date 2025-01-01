@@ -28,30 +28,29 @@ namespace minitool3
                     {
                         byte[] fileData = File.ReadAllBytes(filePath);
 
-                        if (fileData.Length < 20) // 4 bytes (size) + 16 bytes (IV)
+                        if (fileData.Length < 16)
                         {
-                            Console.WriteLine("The file does not contain enough data for size and IV.");
+                            Console.WriteLine("The file does not contain enough data.");
                             continue;
                         }
 
-                        // Read the encrypted data & iv size (4 bytes)
+                        // Read the encrypted data & iv size (4 bytes)*
                         int encryptedSize = BitConverter.ToInt32(fileData, 0);
-
-                        if (encryptedSize <= 0 || encryptedSize > fileData.Length - 4)
+                        int sp = 4;
+                        if (fileData.Length - 4 != encryptedSize) //*某些情况下头部不带长度
                         {
-                            Console.WriteLine("Invalid encrypted data size.");
-                            continue;
+                            sp = 0;
+                            encryptedSize = fileData.Length;
                         }
-
                         encryptedSize -= 16;
 
                         // Read the IV (16 bytes)
                         byte[] iv = new byte[16];
-                        Array.Copy(fileData, 4, iv, 0, 16);
+                        Array.Copy(fileData, sp, iv, 0, 16);
 
                         // Read the ciphertext based on the size
                         byte[] cipherText = new byte[encryptedSize];
-                        Array.Copy(fileData, 20, cipherText, 0, encryptedSize);
+                        Array.Copy(fileData, 16 + sp, cipherText, 0, encryptedSize);
 
                         byte[] decryptedData = Decrypt(cipherText, SHA256Byte, iv);
 

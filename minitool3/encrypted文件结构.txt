@@ -1,6 +1,6 @@
 *.encrypted文件结构
 (D)
-4B: enc data + iv size
+4B: enc data + iv size （这4B可能没有）
 16B: iv
 {data size}B: enc data(AES256 encryption)
 
