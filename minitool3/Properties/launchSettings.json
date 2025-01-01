@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "minitool3": {
+      "commandName": "Project",
+      "commandLineArgs": "\"G:\\source\\minitool1\\minitool3\\bin\\Debug\\net8.0\\bg_avg_003.jp.encrypted\""
+    }
+  }
+}

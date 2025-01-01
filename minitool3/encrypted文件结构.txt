@@ -1,0 +1,13 @@
+*.encrypted文件结构
+(D)
+4B: enc data + iv size
+16B: iv
+{data size}B: enc data(AES256 encryption)
+
+
+SecretKey = "dB3aqcLtAmBd"
+KeyBase = "RWd3NusabzRc"
+
+hmac = new HMACSHA256(Encoding.UTF8.GetBytes(SecretKey))
+AESKey = hmac.ComputeHash(Encoding.UTF8.GetBytes(KeyBase))
+iv = 看顶上
