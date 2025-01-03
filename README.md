@@ -21,8 +21,9 @@
 
 - minitool3
 
-    这个程序是设计来解密DMM游戏 あいりすミスティリアR的加密封包，只需要拖拽*.encrypted文件到程序上运行即可，解密的文件会保存在dec文件夹下
+    这个程序是设计来解密DMM/FANZA游戏 あいりすミスティリア(R)的加密封包，只需要拖拽*.encrypted文件到程序上运行即可，解密的文件会保存在dec文件夹下
 
     提取出的assets文件... 看上面两条吧
 
-    注: 我只测试了PC和Android平台R18版本的封包文件，网页版没测试（看到wasm就丢进回收站了）
+    注: 只简单测试了Windows、Android、Web R18版本与Android 全年龄版本的.encrypted封包文件
+    （web版wasm有点感人，我是从Android版开搞的😂）
