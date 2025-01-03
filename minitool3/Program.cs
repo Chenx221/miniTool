@@ -87,7 +87,7 @@ namespace minitool3
             aes.Key = sha256Key;
             aes.IV = iv;
             aes.Mode = CipherMode.CBC;
-            aes.Padding = PaddingMode.PKCS7;
+            aes.Padding = PaddingMode.None;
 
             using var decryptor = aes.CreateDecryptor();
             using var memoryStream = new MemoryStream(cipherText);
