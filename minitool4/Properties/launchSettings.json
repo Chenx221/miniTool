@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "minitool4": {
+      "commandName": "Project",
+      "commandLineArgs": "\"G:\\source\\minitool1\\minitool4\\bin\\Release\\net8.0\\8775286480751058759.vrm\""
+    }
+  }
+}

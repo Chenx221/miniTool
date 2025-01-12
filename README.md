@@ -27,3 +27,7 @@
 
     注: 只简单测试了Windows、Android、Web R18版本与Android 全年龄版本的.encrypted封包文件
     （web版wasm有点感人，我是从Android版开搞的😂）
+
+- minitool4
+
+​	这个工具并没有什么用，解密&解压后的vrm会被告知缺少PIXIV_texture_basis进而无法使用💢，所以我懒得发release。等一个解决方法。
