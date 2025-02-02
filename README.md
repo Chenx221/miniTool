@@ -30,7 +30,7 @@
 
 - minitool4
 
-​	这个工具并没有什么用，解密&解压后的vrm会被告知缺少PIXIV_texture_basis进而无法使用💢，所以我懒得发release。等一个解决方法。
+    这个工具并没有什么用，解密&解压后的vrm会被告知缺少PIXIV_texture_basis进而无法使用💢，所以我懒得发release。等一个解决方法。
 
 - minitool5
 
