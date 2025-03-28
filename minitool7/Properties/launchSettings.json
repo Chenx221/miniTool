@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "minitool7": {
+      "commandName": "Project",
+      "commandLineArgs": "\"G:\\x221.local\\KoiChoco\\KoiChoco_Data\\system.dat\""
+    }
+  }
+}

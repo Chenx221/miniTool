@@ -41,3 +41,9 @@
     合成拔作岛1/2(抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか？1/2) 的CG (不支持立绘)，该拆的封包拆出来，然后把路径作为参数运行。成品会出现在output。仅适配重制版——Artemis引擎的版本
 
     ![](img/minitool6_1.png)
+
+
+
+- minitool6
+
+  适用于[恋爱与选举与巧克力 steam](https://store.steampowered.com/app/3027600/_/)多语言版 .dat的解包，直接拖拽.dat到程序上

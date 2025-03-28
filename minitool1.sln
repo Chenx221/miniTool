@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minitool5", "minitool5\mini
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minitool6", "minitool6\minitool6.csproj", "{234F1A75-1214-435E-BEAB-423723110B83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minitool7", "minitool7\minitool7.csproj", "{E20EEC44-AC51-4374-A86A-714418F63FD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{234F1A75-1214-435E-BEAB-423723110B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{234F1A75-1214-435E-BEAB-423723110B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{234F1A75-1214-435E-BEAB-423723110B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E20EEC44-AC51-4374-A86A-714418F63FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20EEC44-AC51-4374-A86A-714418F63FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20EEC44-AC51-4374-A86A-714418F63FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20EEC44-AC51-4374-A86A-714418F63FD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
