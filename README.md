@@ -42,8 +42,11 @@
 
     ![](img/minitool6_1.png)
 
-
-
-- minitool6
+- minitool7
 
   适用于[恋爱与选举与巧克力 steam](https://store.steampowered.com/app/3027600/_/)多语言版 .dat的解包，直接拖拽.dat到程序上
+
+- minitool8
+
+  适用于[月に寄りそう乙女の作法 2 steam版](https://store.steampowered.com/app/3446150/Tsuki_ni_Yorisou_Otome_no_Sahou_2/?l=japanese) .pac的解包，直接拖拽.pac到程序上；完成后用AssetRipper或AssetStudio处理整个output文件夹；`scenario.s`不感兴趣，没测
+
