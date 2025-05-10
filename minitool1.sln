@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minitool6", "minitool6\mini
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minitool7", "minitool7\minitool7.csproj", "{E20EEC44-AC51-4374-A86A-714418F63FD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minitool8", "minitool8\minitool8.csproj", "{30491AC4-884D-4F3C-8FB7-B63715207A17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,8 +53,15 @@ Global
 		{E20EEC44-AC51-4374-A86A-714418F63FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E20EEC44-AC51-4374-A86A-714418F63FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E20EEC44-AC51-4374-A86A-714418F63FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30491AC4-884D-4F3C-8FB7-B63715207A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30491AC4-884D-4F3C-8FB7-B63715207A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30491AC4-884D-4F3C-8FB7-B63715207A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30491AC4-884D-4F3C-8FB7-B63715207A17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE0A41FC-B12D-4C7C-BAA3-A717CD36B65F}
 	EndGlobalSection
 EndGlobal
