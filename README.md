@@ -50,3 +50,24 @@
 
   适用于[月に寄りそう乙女の作法 2 steam版](https://store.steampowered.com/app/3446150/Tsuki_ni_Yorisou_Otome_no_Sahou_2/?l=japanese) .pac的解包，直接拖拽.pac到程序上；完成后用AssetRipper或AssetStudio处理整个output文件夹；`scenario.s`不感兴趣，没测
 
+- minitool9
+
+    过Triangle PIX GAME STUDIO引擎游戏的序列号验证补丁，直接拖拽游戏主程序到`minitool9.exe`即可，自动备份
+
+    ```
+    已测试
+    幻聖剣姫セイクリッドアーク
+    魔法閃士フェアリーバレット
+    魔法戦士EXTRA IGNITION
+    光装剣姫アークブレイバー 獣欲に堕ちる勇者
+    光装剣姫アークブレイバー 楽園天獄
+    光装剣姫アークブレイバー 魔族篇胞
+    魔法戦士 After the Final ～黒銀の魔王～
+    魔法戦士 CHRISTMAS IGNITION
+    魔法戦士 FINAL IGNITION
+    魔法戦士　memory of gray
+    魔法戦士レムティアナイツ２ -こわれゆく世界の女神たち-
+    ```
+
+    
+
