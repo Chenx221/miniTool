@@ -74,3 +74,7 @@
 
     拆 贄の匣庭 EXFS 游戏封包
 
+- minitool11
+
+
+​	AdvHD.exe 去guid检查
