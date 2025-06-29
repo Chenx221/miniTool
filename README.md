@@ -76,5 +76,8 @@
 
 - minitool11
 
-
     AdvHD.exe 去guid检查
+
+- minitool12
+
+    Yu-Ris 过序列号(只测试了Zwei Worter HDリマスター 别的以后再说)
