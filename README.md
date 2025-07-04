@@ -81,3 +81,8 @@
 - minitool12
 
     Yu-Ris 过序列号(只测试了Zwei Worter HDリマスター 别的以后再说)
+
+- minitool13
+
+    VIRTUAL GIRL @ WORLD'S END解包
+
